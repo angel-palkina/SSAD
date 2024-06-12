@@ -1,0 +1,3 @@
+C:/Users/Софья/CLionProjects/SSAD_03/cmake-build-debug/CMakeFiles/SSAD_03.dir
+C:/Users/Софья/CLionProjects/SSAD_03/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Софья/CLionProjects/SSAD_03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
